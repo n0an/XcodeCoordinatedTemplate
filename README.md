@@ -1,0 +1,1 @@
+put ```Coordinated App.xctemplate``` to ```~/Library/Developer/Xcode/Templates/Project Templates``` directory
